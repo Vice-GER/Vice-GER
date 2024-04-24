@@ -11,3 +11,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vice-ger&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
+
+
+<img src="https://raw.githubusercontent.com/vice-ger/vice-ger/output/snake.svg" alt="Snake animation" />
